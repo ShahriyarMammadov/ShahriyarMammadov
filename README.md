@@ -5,3 +5,4 @@
 ![Shahriyar](https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47houvlazi6476gso26biarzvio2u55n1kh9fsizft&rid=giphy.gif&ct=g)
 ![Shahriyar's github stats](https://github-readme-stats.vercel.app/api?username=ShahriyarMammadov)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriyarMammadov)](https://github.com/ShahriyarMammadov/github-readme-stats)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=ShahriyarMammadov&repo=dev.to)](https://github.com/ShahriyarMammadov/dev.to)
