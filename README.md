@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShahriyarMammadov.
 - 🌱 I’m currently learning web programming at CodeAcademy
 - 📫 I can be reached at my email address: sehriyar.memmedov.2002@mail.ru
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,github,git,figma,bootstrap&theme=tokyonight)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,github,git,figma,bootstrap&theme=night)](https://skillicons.dev)
 ![Shahriyar](https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47houvlazi6476gso26biarzvio2u55n1kh9fsizft&rid=giphy.gif&ct=g)
 ![ShahriyarMammadov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahriyarMammadov&show_icons=true&theme=tokyonight)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriyarMammadov&layout=compact&theme=tokyonight)
