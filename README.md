@@ -1,4 +1,4 @@
--<h1 style="color:blue;text-align:center;">👋 Hi, I’m @ShahriyarMammadov.<h1/>
+-<h1>👋 Hi, I’m @ShahriyarMammadov.<h1/>
 - 🌱 I’m currently learning web programming at CodeAcademy
 - 📫 I can be reached at my email address: sehriyar.memmedov.2002@mail.ru
 - <h1>Top Languages <h1/>
