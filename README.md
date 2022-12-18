@@ -3,7 +3,7 @@
 - 📫 I can be reached at my email address: sehriyar.memmedov.2002@mail.ru
 <p align="center">
   <a href="https://skillicons.dev">
-      <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+      <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   </a>
   <a href="https://skillicons.dev">
       <a href="https://twitter.com/home"><img src="https://skillicons.dev/icons?i=twitter" /></a>
