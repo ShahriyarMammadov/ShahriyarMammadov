@@ -1,10 +1,9 @@
 -  <h2>👋 Hi, I’m @ShahriyarMammadov.<h2/>
 - 🌱 I’m currently learning web programming at CodeAcademy
 - 📫 I can be reached at my email address: sehriyar.memmedov.2002@mail.ru
-,,linkedin
 <p align="center">
   <a href="https://skillicons.dev">
-      <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+      <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   </a>
   <a href="https://skillicons.dev">
       <a href="https://twitter.com/home"><img src="https://skillicons.dev/icons?i=twitter" /></a>
