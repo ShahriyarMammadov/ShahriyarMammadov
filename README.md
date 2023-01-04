@@ -1,7 +1,6 @@
 -  <h2>👋 Hi, I’m ShahriyarMammadov.<h2/>
 - 🌱 I’m currently learning web programming at CodeAcademy
 - 📫 I can be reached at my email address: sehriyar.memmedov.2002@mail.ru
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahriyarMammadov&label=Profile%20views&color=0e75b6&style=flat" alt="heydaroghlu" /> </p>
  
 <p align="center">
   <a href="https://skillicons.dev">
