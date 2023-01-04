@@ -1,4 +1,4 @@
--  <h2>👋 Hi, I’m @ShahriyarMammadov.<h2/>
+-  <h2>👋 Hi, I’m ShahriyarMammadov.<h2/>
 - 🌱 I’m currently learning web programming at CodeAcademy
 - 📫 I can be reached at my email address: sehriyar.memmedov.2002@mail.ru
 <p align="center">
@@ -12,7 +12,7 @@
       <a href="https://www.linkedin.com/feed/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   </a>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heydaroghlu&label=Profile%20views&color=0e75b6&style=flat" alt="heydaroghlu" /> </p>
 - Top Languages  <br /><br />
      [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,sass,github,git,figma,bootstrap,react,redux&theme=light)](https://skillicons.dev)<br /><br />
 ![ShahriyarMammadov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahriyarMammadov&show_icons=true&theme=tokyonight)<br />
