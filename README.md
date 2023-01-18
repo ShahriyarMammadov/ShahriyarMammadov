@@ -1,5 +1,5 @@
 -  <h2>👋 Hi, I’m ShahriyarMammadov.<h2/>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahriyarMammadov&label=Profile%20views&color=0e75b6&style=flat" alt="heydaroghlu" /> </p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahriyarMammadov&label=Profile%20views&color=0e75b6&style=flat" alt="Shahriyar" /> </p>
 - 🌱 I’m currently learning web programming at CodeAcademy
 - 📫 I can be reached at my email address: shahriyarmammadov16@gmail.com
 
@@ -16,7 +16,7 @@
 </p>
 
 - Top Languages  <br /><br />
-     [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,sass,github,git,figma,bootstrap,react,redux,express,mongoDB&theme=light)](https://skillicons.dev)<br /><br />
+     [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,sass,github,git,figma,bootstrap,react,redux,express,mongo&theme=light)](https://skillicons.dev)<br /><br />
 
     ![ShahriyarMammadov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahriyarMammadov&show_icons=true&theme=tokyonight)<br />
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriyarMammadov&layout=compact&theme=tokyonight)<br />
