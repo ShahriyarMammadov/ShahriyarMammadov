@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+      <a href="https://www.instagram.com/sehriyar_1234/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   </a>
   <a href="https://skillicons.dev">
       <a href="https://twitter.com/home"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   </a>
   <a href="https://skillicons.dev">
-      <a href="https://www.linkedin.com/feed/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+      <a href="https://www.linkedin.com/in/shahriyarmammadov/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   </a>
 </p>
 
