@@ -21,6 +21,6 @@
 
     ![ShahriyarMammadov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahriyarMammadov&show_icons=true&theme=tokyonight)<br />
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriyarMammadov&layout=compact&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahriyarMammadov&theme=tokyonight)
+<h2 align="right">![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahriyarMammadov&theme=tokyonight)</h2>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShahriyarMammadov&theme=tokyonight)](https://git.io/streak-stats)<br />
 ![Shahriyar](https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47houvlazi6476gso26biarzvio2u55n1kh9fsizft&rid=giphy.gif&ct=g)
