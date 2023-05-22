@@ -17,7 +17,7 @@
 </p>
 
 - Top Languages  <br /><br />
-     [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,sass,github,git,figma,ts,react,redux,express,firebase,mongodb&theme=light)](https://skillicons.dev)<br /><br />
+     [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,sass,github,git,figma,ts,react,redux,express,node,firebase,mongodb&theme=light)](https://skillicons.dev)<br /><br />
 
     ![ShahriyarMammadov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahriyarMammadov&show_icons=true&theme=tokyonight)<br />
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriyarMammadov&layout=compact&theme=tokyonight)<br />
