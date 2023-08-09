@@ -15,7 +15,7 @@
       <a href="https://www.linkedin.com/in/shahriyarmammadov/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShahriyarMammadov)](https://github.com/ShahriyarMammadov/github-profile-trophy)
+
 
 - Top Languages  <br /><br />
      [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,sass,github,git,figma,ts,react,redux,express,nodejs,firebase,mongodb&theme=light)](https://skillicons.dev)<br /><br />
