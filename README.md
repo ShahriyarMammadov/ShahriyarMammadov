@@ -16,7 +16,7 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShahriyarMammadov)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShahriyarMammadov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - Top Languages  <br /><br />
      [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,sass,github,git,figma,ts,react,redux,express,nodejs,firebase,mongodb&theme=light)](https://skillicons.dev)<br /><br />
