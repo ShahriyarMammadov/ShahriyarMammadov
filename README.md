@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer </h3>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahriyarMammadov&label=Profile%20views&color=0e75b6&style=flat" alt="Shahriyar" /> </p>
 - 🌱 I’m currently learning web programming <br />
-- 📫 I can be reached at my email address: <a href="mailto:shahriyarmammadov16@gmail.com">shahriyarmammadov16@gmail.com</a> <br />
+- 📫 I can be reached at my email address: <a href="mailto:shahriyarmammadov16@gmail.com">shahriyarmammadov16@gmail.com</a> <br /><br />
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShahriyarMammadov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ShahriyarMammadov&row=2&column=3
 
 - Top Languages  <br /><br />
      [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,sass,github,git,figma,ts,react,redux,express,nodejs,firebase,mongodb&theme=light)](https://skillicons.dev)<br /><br />
