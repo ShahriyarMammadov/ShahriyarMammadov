@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m ShahriyarMammadov.</h1>
 <h3 align="center">Software Developer </h3>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahriyarMammadov&label=Profile%20views&color=0e75b6&style=flat" alt="Shahriyar" /> </p>
-- 🌱 I’m currently learning web programming <br />
+- 🌱 I’m currently learning web programming and React-native <br />
 - 📫 I can be reached at my email address: <a href="mailto:shahriyarmammadov16@gmail.com">shahriyarmammadov16@gmail.com</a> <br /><br />
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 - Top Languages  <br /><br />
-     [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,sass,github,git,figma,ts,react,redux,express,nodejs,firebase,mongodb&theme=light)](https://skillicons.dev)<br /><br />
+     [![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,sass,github,git,figma,ts,react,redux,express,nodejs,firebase,mongodb&theme=light)](https://skillicons.dev)<br /><br />
 
     ![ShahriyarMammadov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahriyarMammadov&show_icons=true&theme=tokyonight)<br />
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriyarMammadov&layout=compact&theme=tokyonight)<br />
