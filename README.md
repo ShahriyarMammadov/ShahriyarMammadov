@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shahriyarmammadov.com](https://shahriyarmammadov.com)
 
-- 💬 Ask me about **I am a full stack web developer with a Bachelor's degree in Computer Science. I have experience in bug resolution, functionality implementation, and web component development. I am proficient in JavaScript, Python, and various web development frameworks. I have worked on several startup projects and currently freelancing as a full stack web developer.**
+- 💬 Ask me about **Javascript, Typescript, React, Next.js, node.js**
 
 - 📫 How to reach me **shahriyarmammadov16@gmail.com**
 
