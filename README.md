@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriyarmammadov&label=Profile%20views&color=0e75b6&style=flat" alt="shahriyarmammadov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriyarmammadov" alt="shahriyarmammadov" /></a> </p>
-
 - 🔭 I’m currently working on **Kapital Bank**
 
 - 🌱 I’m currently learning **next.js, react-native**
