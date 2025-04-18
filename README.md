@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **next.js, react-native, react**
 
-- 👨‍💻 All of my projects are available at [https://shahriyarmammadov.com](https://shahriyarmammadov.com)
+- 👨‍💻 All of my projects are available at [https://shahriyarmammadov.online](https://shahriyarmammadov.online)
 
 - 💬 Ask me about **Javascript, Typescript, React, Next.js, node.js**
 
