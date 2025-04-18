@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Kapital Bank**
 
-- 🌱 I’m currently learning **next.js, react-native**
+- 🌱 I’m currently learning **next.js, react-native, react**
 
 - 👨‍💻 All of my projects are available at [https://shahriyarmammadov.com](https://shahriyarmammadov.com)
 
